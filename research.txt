@@ -1,0 +1,2 @@
+why index.html ?
+this is important as a basic and common thing github is used to search for index.html as a default thing and it initiates the search for index.html and if doesn't find the file it then goes for secondary preferences 
